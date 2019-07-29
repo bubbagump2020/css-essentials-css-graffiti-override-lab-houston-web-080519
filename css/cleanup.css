@@ -1,5 +1,5 @@
 /* write your override styles here */
-/wall .tag-1{
+wall .tag-1{
   display: none;
 }
 
@@ -7,6 +7,6 @@
   display: none;
 }
 
-#tag-3.slick{
+.slick{
   display: none;
 }
